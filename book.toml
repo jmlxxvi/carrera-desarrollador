@@ -1,0 +1,13 @@
+[book]
+authors = ["Juan Martín Guillén"]
+language = "en"
+src = "src"
+title = "Carrera Desarrollador"
+
+[output.html]
+additional-css = ["custom.css"]
+additional-js = ["custom.js"]
+default-theme = "light"
+preferred-dark-theme = "light"
+git-repository-url = "https://github.com/jmlxxvi/carrera-desarrollador"
+git-repository-icon = "fa-github"
